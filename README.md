@@ -3,10 +3,9 @@
 A package for the [atom](atom.io) editor that provides excellent C++ code
 navigation functionality using [rtags](https://github.com/Andersbakken/rtags).
 
-![rtags in action](https://media.giphy.com/media/n4Jl6O3mIXyr6/giphy.gif)
+[![rtags in action](https://media.giphy.com/media/n4Jl6O3mIXyr6/giphy.gif)](http://youtu.be/ShcdCon-OCY)
 
-[![The full video, on YouTube](http://img.youtube.com/vi/ShcdCon-OCY/0.jpg)](http://youtu.be/ShcdCon-OCY)
-
+(Click through for full YouTube video)
 
 ## Usage
 
