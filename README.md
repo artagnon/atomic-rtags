@@ -1,7 +1,7 @@
 # Atomic rtags
 
-A package for the [atom](atom.io) editor that provides excellent C++ tagging
-functionality using [rtags](https://github.com/Andersbakken/rtags).
+A package for the [atom](atom.io) editor that provides excellent C++ code
+navigation functionality using [rtags](https://github.com/Andersbakken/rtags).
 
 ## Usage
 
