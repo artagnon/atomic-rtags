@@ -3,6 +3,11 @@
 A package for the [atom](atom.io) editor that provides excellent C++ code
 navigation functionality using [rtags](https://github.com/Andersbakken/rtags).
 
+![rtags in action](https://media.giphy.com/media/n4Jl6O3mIXyr6/giphy.gif)
+
+[![The full video, on YouTube](http://img.youtube.com/vi/ShcdCon-OCY/0.jpg)](http://youtu.be/ShcdCon-OCY)
+
+
 ## Usage
 
 First, download and install rtags. This may be a somewhat laborious process, but
