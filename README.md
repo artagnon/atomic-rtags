@@ -12,8 +12,9 @@ if you're using CMake.
 
 Next, install this package through Atom, and configure the locations of your
 `rc` and `rdm` executables (the defaults most likely won't work). Open your
-code, and hit <kbd>alt</kbd>+<kbd>,</kbd> with the cursor positioned at the
-symbol you want to look up.
+project (you _must_ use <kbd>cmd</kbd>+<kbd>o</kbd> because all paths returned
+by `rc` are relative), and hit <kbd>alt</kbd>+<kbd>,</kbd> with the cursor
+positioned at the symbol you want to look up.
 
 ## Troubleshooting
 
