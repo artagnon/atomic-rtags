@@ -1,0 +1,13 @@
+{
+  "name": "atomic-rtags",
+  "main": "./lib/atomic-rtags",
+  "version": "1.2.0",
+  "description": "Rtags for Atom Editor",
+  "repository": "https://github.com/artagnon/atomic-rtags",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.177.0"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
